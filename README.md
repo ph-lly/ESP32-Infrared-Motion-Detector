@@ -4,5 +4,6 @@ ESP32 that detects infrared motion and displays a message on an LCD monitor when
 TO DOs: 
 * Fix power voltage issue with LCD monitor and ESP32 
 * Re-adjust values for Motion Sensor 
-* Add camera to display to? 
+* Add camera to take picture of when motion was detected 
 * Message via email or service (Telegram or Phone message) when motion is detected
+* Web app? 
